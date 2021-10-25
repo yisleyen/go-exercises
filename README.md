@@ -3,9 +3,6 @@
 
 Go dilini öğrenme aşamasında denediğim örnekleri tuttuğum repo.
 
-
-
-
 ## İlişkili Örnekler
 
 Denediğim örneklerin detaylarına aşağıdaki linklerden ulaşabilirsiniz.
@@ -15,9 +12,9 @@ Denediğim örneklerin detaylarına aşağıdaki linklerden ulaşabilirsiniz.
 [XML Ayrıştırma](https://github.com/yisleyen/go-exercises/tree/master/xml-parser)  
 [Sistem Bilgileri](https://github.com/yisleyen/go-exercises/tree/master/system-infos)  
 [HTML Ayrıştırma](https://github.com/yisleyen/go-exercises/tree/master/web-scraper)  
-[Waitgroup](https://github.com/yisleyen/go-exercises/tree/master/waitgroup)
+[Waitgroup](https://github.com/yisleyen/go-exercises/tree/master/waitgroup)     
+[Twitter API İle Tweet Atma](https://github.com/yisleyen/go-exercises/tree/master/twitter-bot)
 
-  
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
@@ -38,9 +35,7 @@ Proje dizinine gidin
   go run main.go
 ```
 
-  
+
 ## Geri Bildirim
 
 Herhangi bir geri bildiriminiz varsa, lütfen me@yusufisleyen.com adresinden bana ulaşabilirsiniz.
-
-  
