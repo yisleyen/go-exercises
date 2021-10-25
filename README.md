@@ -15,7 +15,7 @@ Denediğim örneklerin detaylarına aşağıdaki linklerden ulaşabilirsiniz.
 [XML Ayrıştırma](https://github.com/yisleyen/go-exercises/tree/master/xml-parser)  
 [Sistem Bilgileri](https://github.com/yisleyen/go-exercises/tree/master/system-infos)  
 [HTML Ayrıştırma](https://github.com/yisleyen/go-exercises/tree/master/web-scraper)  
-[Waitgroup](https://github.com/yisleyen/go-exercises/tree/master/waitgroup)  
+[Waitgroup](https://github.com/yisleyen/go-exercises/tree/master/waitgroup)
 
   
 ## Bilgisayarınızda Çalıştırın
