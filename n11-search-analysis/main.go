@@ -20,13 +20,19 @@ func main()  {
 		fmt.Println(err)
 	}
 
-	var product Product
+	var product []Product
+
+	counter := 0
 
 	doc.Find(".column").Each(func(i int, s *goquery.Selection) {
 
-		product.title = s.Find(".productName").Text()
-		product.subTitle = s.Find(".proSubTitle").Text()
 
-		fmt.Println(product.title)
+		product[counter].title = s.Find(".productName").Text()
+		product[counter].subTitle = s.Find(".proSubTitle").Text()
+
+		counter = counter + 1
+
 	})
+
+	fmt.Println(product)
 }
